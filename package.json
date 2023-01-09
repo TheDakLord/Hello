@@ -4,7 +4,7 @@
   "description": "My Project",
   "main": "index.js",
   "scripts": {
-    "sass": "node-sass --watch style.scss style.css "
+    "sass": "sass --watch style.scss:style.css "
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/TheDakLord/Hello#readme",
   "dependencies": {
-    "node-sass": "^8.0.0"
+    "node-sass": "^8.0.0",
+    "sass": "^1.57.1"
   }
 }
