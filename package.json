@@ -1,0 +1,22 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "My Project",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass --watch style.scss style.css "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheDakLord/Hello.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheDakLord/Hello/issues"
+  },
+  "homepage": "https://github.com/TheDakLord/Hello#readme",
+  "dependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
