@@ -1,0 +1,14 @@
+body {
+  background-color: yellow;
+  color: rgb(37, 170, 37);
+  font-size: 26px;
+  min-height: 60vh;
+}
+
+div {
+  margin: 0 auto;
+  max-width: 1200px;
+  background-color: red;
+}
+
+/*# sourceMappingURL=style.css.map */

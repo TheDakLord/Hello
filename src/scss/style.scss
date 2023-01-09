@@ -1,0 +1,14 @@
+$new:rgba(37, 170, 37, 1);
+body{
+    background-color:yellow;
+    color: $new;
+    font-size: 26px;
+    min-height: 60vh;
+    
+    
+}
+div{
+    margin: 0 auto;
+    max-width: 1200px;
+    background-color: red;
+}
